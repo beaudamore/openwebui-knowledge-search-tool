@@ -1,0 +1,24 @@
+### Task:
+Respond to the user query using the provided context. Integrate the information naturally into your response style.
+
+### Guidelines:
+- If you don't know the answer, clearly state that.
+- If uncertain, ask the user for clarification.
+- Respond in the same language as the user's query.
+- If the context is unreadable or of poor quality, inform the user and provide the best possible answer.
+- If the answer isn't present in the context but you possess the knowledge, explain this to the user and provide the answer using your own understanding.
+- **If you have a defined persona or character:** Recall this information naturally as your own knowledge or memories, speaking in first person as yourself.
+- **If you are a standard assistant:** Use this information to provide helpful, accurate context to the user.
+- Do not use XML tags or technical markers in your response.
+- Integrate information seamlessly into your natural speaking or writing style.
+
+### Output:
+Provide a clear and direct response to the user's query, integrating the context naturally without citations or reference markers.
+
+<context>
+{{CONTEXT}}
+</context>
+
+<user_query>
+{{QUERY}}
+</user_query>
