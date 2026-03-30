@@ -1,5 +1,10 @@
 # OpenWebUI Knowledge Search Tool
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![OpenWebUI](https://img.shields.io/badge/Open_WebUI-Tool-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Hybrid Search](https://img.shields.io/badge/Hybrid-Semantic_%2B_Keyword-orange)
+
 Generic, reusable knowledge base search tool for OpenWebUI designed to be copied and configured for different models or purposes with isolated KB access.
 
 **Version:** 2.0.0  
